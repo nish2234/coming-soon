@@ -21,6 +21,7 @@ body , html{
 .webgl{
   z-index: 1;
   position: absolute;
+  
 }
 .cont{
   height: 8vh;
